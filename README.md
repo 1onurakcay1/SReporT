@@ -31,7 +31,7 @@ Ekstra kütüphane kurulumu gerekmez (sadece Python’un standart kütüphaneler
 git clone https://github.com/1onurakcay1/SReporT.git
 cd SReporT
 ```
-## 🔧 Komut Satırı Parametreleri
+##  Komut Satırı Parametreleri
 
 SReporT aracı şu parametreleri destekler:
 
