@@ -1,18 +1,5 @@
-\#  Changelog
-
-
-
-Tüm önemli değişiklikler bu dosyada listelenir.  
-
-Format: \[Keep a Changelog](https://keepachangelog.com/en/1.0.0/)  
-
-Sürümleme: \[Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PATCH)
-
-
-
+\#  Changelog  
 ---
-
-
 
 \## \[1.0.0] - 2025-09-29
 
@@ -28,7 +15,6 @@ Sürümleme: \[Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PATCH)
 
 \- PDF export butonu
 
-\- Logo ve favicon desteği
 
 
 
