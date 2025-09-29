@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-__version__ = "1.0"
-__author__ = "Onur Muhammet AKÇAY"
+#__version__ = "1.0"
+#__author__ = "Onur Muhammet AKÇAY"
 
 from __future__ import annotations
 import argparse
@@ -358,3 +358,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
