@@ -30,3 +30,21 @@ Ekstra kütüphane kurulumu gerekmez (sadece Python’un standart kütüphaneler
 ```bash
 git clone https://github.com/1onurakcay1/SReporT.git
 cd SReporT
+```
+## 🔧 Komut Satırı Parametreleri
+
+SReporT aracı şu parametreleri destekler:
+
+| Parametre | Zorunlu | Açıklama |
+|-----------|---------|----------|
+| `-i`, `--input`    |  Evet | Nmap çıktı dosyası. Desteklenen formatlar: `.xml`, `.gnmap`, `.txt`, `.nmap` |
+| `-o`, `--output`   |  Hayır | Oluşturulacak HTML rapor dosyası. Varsayılan: **sonuc.html** |
+| `-t`, `--template` |  Hayır | Kullanılacak HTML şablon dosyası. Varsayılan: **template.html** |
+
+---
+
+###  Kullanım Örnekleri
+
+**Zorunlu parametre (`-i`) ile:**
+```bash
+python3 SReporT.py -i tarama_sonucu.xml
