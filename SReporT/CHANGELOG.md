@@ -1,4 +1,4 @@
-\#  Changelog  
+Changelog  
 ---
 
  Versiyon 1.0 - 2025-09-29
@@ -12,6 +12,7 @@
 \- Modern responsive HTML şablon
 
 \- PDF export butonu
+
 
 
 
