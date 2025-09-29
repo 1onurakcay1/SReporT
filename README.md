@@ -15,7 +15,7 @@ Responsive tasarımı ve PDF export özelliği ile tarama sonuçlarını profesy
 
 ---
 
-## ✨ Özellikler
+##  Özellikler
 - 📊 Host, port, servis, işletim sistemi ve script çıktıları raporlar.  
 - 🎨 Modern HTML template kullanır.  
 - 🧮 Toplam istatistikleri (host, port, servis, script) hesaplar.  
