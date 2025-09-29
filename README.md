@@ -3,7 +3,6 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
-![Repo Size](https://img.shields.io/github/repo-size/1onurakcay1/SReporT)
 ![Last Commit](https://img.shields.io/github/last-commit/1onurakcay1/SReporT)
 
 **Versiyon:** 1.0  
