@@ -3,8 +3,6 @@
 
 \## \[1.0.0] - 2025-09-29
 
-\### Eklendi
-
 \- İlk sürüm (Initial release)
 
 \- Nmap tarama sonuçlarını HTML rapora dönüştürme
@@ -14,6 +12,7 @@
 \- Modern responsive HTML şablon
 
 \- PDF export butonu
+
 
 
 
